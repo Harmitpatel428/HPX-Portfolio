@@ -1,6 +1,6 @@
 # HPX Eigen | Intelligent B2B CRM Portfolio
 
-![HPX Eigen Logo](Harmit.png)
+![HPX Eigen Logo]
 
 A premium, high-performance founder portfolio and product showcase for **HPX Eigen** — an intelligent B2B CRM engineered for mission-critical growth.
 
